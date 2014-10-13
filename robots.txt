@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://github-firefly.github.io/sitemap.xml 

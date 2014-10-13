@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://github-firefly.github.io/atom.xml" rel="self"/>
+  <link href="http://github-firefly.github.io/"/>
+  <updated>2014-10-13T22:58:22+08:00</updated>
+  <id>http://github-firefly.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[What the Hell]]></title>
+    <link href="http://github-firefly.github.io/blog/2014/10/13/what-the-hell/"/>
+    <updated>2014-10-13T22:55:51+08:00</updated>
+    <id>http://github-firefly.github.io/blog/2014/10/13/what-the-hell</id>
+    <content type="html"><![CDATA[<p>Over my head</p>
+]]></content>
+  </entry>
+  
+</feed>
