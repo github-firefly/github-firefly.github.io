@@ -1,0 +1,9 @@
+---
+layout: post
+title: "test"
+date: 2014-10-14 13:20:16 +0800
+comments: true
+categories: 
+---
+
+This post is a tool to test the octopress funtionality.
