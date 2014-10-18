@@ -1,0 +1,9 @@
+---
+layout: post
+title: "test"
+date: 2014-10-18 21:16:46 +0800
+comments: true
+categories: 
+---
+
+This is a test file that help me be familiar with Octopress functionalities.
