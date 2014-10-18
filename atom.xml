@@ -4,7 +4,11 @@
   <title><![CDATA[Ding Yanran]]></title>
   <link href="http://github-firefly.github.io/atom.xml" rel="self"/>
   <link href="http://github-firefly.github.io/"/>
+<<<<<<< HEAD
   <updated>2014-10-18T21:36:24+08:00</updated>
+=======
+  <updated>2014-10-13T23:07:49+08:00</updated>
+>>>>>>> 329696149042287f3748ac6d3da0a5ec61d3bddf
   <id>http://github-firefly.github.io/</id>
   <author>
     <name><![CDATA[Ding Yanran]]></name>
@@ -14,6 +18,7 @@
 
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[Test]]></title>
     <link href="http://github-firefly.github.io/blog/2014/10/18/test/"/>
     <updated>2014-10-18T21:16:46+08:00</updated>
@@ -33,6 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome to My Blog!]]></title>
+=======
+    <title type="html"><![CDATA[What the Hell]]></title>
+>>>>>>> 329696149042287f3748ac6d3da0a5ec61d3bddf
     <link href="http://github-firefly.github.io/blog/2014/10/13/what-the-hell/"/>
     <updated>2014-10-13T22:55:51+08:00</updated>
     <id>http://github-firefly.github.io/blog/2014/10/13/what-the-hell</id>
