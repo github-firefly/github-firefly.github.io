@@ -4,7 +4,7 @@
   <title><![CDATA[Ding Yanran]]></title>
   <link href="http://github-firefly.github.io/atom.xml" rel="self"/>
   <link href="http://github-firefly.github.io/"/>
-  <updated>2014-10-14T13:39:39+08:00</updated>
+  <updated>2014-10-18T21:17:40+08:00</updated>
   <id>http://github-firefly.github.io/</id>
   <author>
     <name><![CDATA[Ding Yanran]]></name>
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Test]]></title>
-    <link href="http://github-firefly.github.io/blog/2014/10/14/test/"/>
-    <updated>2014-10-14T13:20:16+08:00</updated>
-    <id>http://github-firefly.github.io/blog/2014/10/14/test</id>
-    <content type="html"><![CDATA[<p>This post is a tool to test the octopress funtionality.</p>
+    <link href="http://github-firefly.github.io/blog/2014/10/18/test/"/>
+    <updated>2014-10-18T21:16:46+08:00</updated>
+    <id>http://github-firefly.github.io/blog/2014/10/18/test</id>
+    <content type="html"><![CDATA[<p>This is a test file that help me be familiar with Octopress functionalities.</p>
 ]]></content>
   </entry>
   
