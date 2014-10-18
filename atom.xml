@@ -4,7 +4,7 @@
   <title><![CDATA[Ding Yanran]]></title>
   <link href="http://github-firefly.github.io/atom.xml" rel="self"/>
   <link href="http://github-firefly.github.io/"/>
-  <updated>2014-10-18T21:36:24+08:00</updated>
+  <updated>2014-10-18T22:56:25+08:00</updated>
   <id>http://github-firefly.github.io/</id>
   <author>
     <name><![CDATA[Ding Yanran]]></name>
@@ -33,10 +33,10 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome to My Blog!]]></title>
-    <link href="http://github-firefly.github.io/blog/2014/10/13/what-the-hell/"/>
+    <link href="http://github-firefly.github.io/blog/2014/10/13/welcom-to-my-blog/"/>
     <updated>2014-10-13T22:55:51+08:00</updated>
-    <id>http://github-firefly.github.io/blog/2014/10/13/what-the-hell</id>
-    <content type="html"><![CDATA[<p>Over my head</p>
+    <id>http://github-firefly.github.io/blog/2014/10/13/welcom-to-my-blog</id>
+    <content type="html"><![CDATA[<p>Welcome to Ding Yanran&rsquo;s Octopress blog!</p>
 ]]></content>
   </entry>
   
