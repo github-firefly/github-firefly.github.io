@@ -4,7 +4,7 @@
   <title><![CDATA[Ding Yanran]]></title>
   <link href="http://github-firefly.github.io/atom.xml" rel="self"/>
   <link href="http://github-firefly.github.io/"/>
-  <updated>2014-10-19T11:50:39+08:00</updated>
+  <updated>2014-10-19T13:03:41+08:00</updated>
   <id>http://github-firefly.github.io/</id>
   <author>
     <name><![CDATA[Ding Yanran]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Plannar Motor]]></title>
+    <link href="http://github-firefly.github.io/blog/2014/10/19/plannar-motor/"/>
+    <updated>2014-10-19T12:46:33+08:00</updated>
+    <id>http://github-firefly.github.io/blog/2014/10/19/plannar-motor</id>
+    <content type="html"><![CDATA[<p><img src="http://pan.baidu.com/s/1i35lorj" alt="asdfasd" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Resume]]></title>
@@ -27,7 +36,7 @@
 <li>Gender: Male
 
 <ul>
-<li>Email: <a href="&#109;&#97;&#105;&#108;&#116;&#x6f;&#58;&#x64;&#105;&#110;&#x67;&#121;&#97;&#x6e;&#114;&#97;&#110;&#95;&#x32;&#48;&#49;&#49;&#x40;&#115;&#x6a;&#116;&#x75;&#x2e;&#x65;&#x64;&#117;&#46;&#x63;&#x6e;">&#x64;&#x69;&#x6e;&#103;&#121;&#x61;&#110;&#x72;&#x61;&#110;&#95;&#50;&#x30;&#x31;&#49;&#64;&#x73;&#x6a;&#x74;&#117;&#x2e;&#101;&#x64;&#117;&#46;&#x63;&#110;</a></li>
+<li>Email: <a href="&#109;&#97;&#105;&#108;&#x74;&#111;&#58;&#100;&#x69;&#110;&#103;&#121;&#x61;&#x6e;&#114;&#97;&#110;&#95;&#50;&#48;&#49;&#x31;&#64;&#x73;&#x6a;&#x74;&#117;&#x2e;&#101;&#x64;&#x75;&#46;&#x63;&#x6e;">&#x64;&#x69;&#110;&#103;&#x79;&#97;&#110;&#x72;&#97;&#x6e;&#x5f;&#x32;&#x30;&#x31;&#49;&#64;&#115;&#x6a;&#x74;&#x75;&#46;&#101;&#100;&#x75;&#46;&#x63;&#110;</a></li>
 </ul>
 </li>
 </ul>
