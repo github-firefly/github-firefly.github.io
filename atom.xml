@@ -4,7 +4,7 @@
   <title><![CDATA[Ding Yanran]]></title>
   <link href="http://github-firefly.github.io/atom.xml" rel="self"/>
   <link href="http://github-firefly.github.io/"/>
-  <updated>2014-10-19T15:06:38+08:00</updated>
+  <updated>2014-10-19T15:46:45+08:00</updated>
   <id>http://github-firefly.github.io/</id>
   <author>
     <name><![CDATA[Ding Yanran]]></name>
@@ -63,9 +63,6 @@ script was used together with OpenCV extension in annalyzing visual signals and 
 <p> <a href="http://fmn.rrimg.com/fmn065/20141019/1415/original_qPRH_4c5100024e61118f.jpg">[Pic]Four-bar Linkage Mechanism of Mechanical Arm</a></p>
 
 <p> <a href="https://www.dropbox.com/s/486tnedakkllp7e/IMG_0136.MOV?dl=0">[Video]Test of Mechanical Arm</a></p></li>
-<li><p>On Field Test</p>
-
-<p> <a href="http://fmn.rrimg.com/fmn062/20140916/0910/original_0xV0_6f33000019741191.jpg">[Pic] My teammates and me (2nd from left) flying quad in the field</a></p></li>
 </ol>
 
 ]]></content>
@@ -119,7 +116,7 @@ semiconductor production</p>
 <li>Gender: Male
 
 <ul>
-<li>Email: <a href="&#x6d;&#97;&#x69;&#108;&#x74;&#111;&#x3a;&#100;&#105;&#110;&#x67;&#x79;&#x61;&#110;&#114;&#97;&#110;&#x5f;&#50;&#x30;&#x31;&#49;&#64;&#x73;&#106;&#116;&#117;&#x2e;&#x65;&#x64;&#x75;&#x2e;&#99;&#110;">&#x64;&#105;&#110;&#x67;&#x79;&#x61;&#110;&#x72;&#97;&#110;&#95;&#50;&#48;&#x31;&#49;&#x40;&#x73;&#106;&#x74;&#x75;&#x2e;&#x65;&#100;&#x75;&#46;&#x63;&#110;</a></li>
+<li>Email: <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#111;&#x3a;&#100;&#105;&#110;&#x67;&#x79;&#97;&#110;&#114;&#97;&#x6e;&#95;&#50;&#x30;&#x31;&#x31;&#64;&#115;&#x6a;&#x74;&#x75;&#46;&#x65;&#x64;&#x75;&#x2e;&#x63;&#x6e;">&#x64;&#105;&#110;&#x67;&#x79;&#97;&#x6e;&#x72;&#x61;&#x6e;&#x5f;&#x32;&#48;&#x31;&#49;&#x40;&#115;&#x6a;&#x74;&#117;&#x2e;&#x65;&#x64;&#x75;&#46;&#99;&#x6e;</a></li>
 </ul>
 </li>
 </ul>
@@ -272,6 +269,8 @@ design.</li>
     <updated>2014-10-13T22:55:51+08:00</updated>
     <id>http://github-firefly.github.io/blog/2014/10/13/welcom-to-my-blog</id>
     <content type="html"><![CDATA[<p>Welcome to Ding Yanran&rsquo;s Octopress blog!</p>
+
+<p>Special thanks to <em>Ray Zhang</em> for his Technical support.</p>
 ]]></content>
   </entry>
   
