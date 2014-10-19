@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://github-firefly.github.io/blog/2014/10/19/hexapod-robot/</loc>
+    
+    <lastmod>2014-10-19T15:00:47+08:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://github-firefly.github.io/blog/2014/10/19/vision-based-quadcopter/</loc>
     
     <lastmod>2014-10-19T13:37:27+08:00</lastmod>
@@ -37,14 +45,14 @@
   
   <url>
     <loc>http://github-firefly.github.io/blog/archives/</loc>
-    <lastmod>2014-10-19T14:07:14+08:00</lastmod>
+    <lastmod>2014-10-19T15:01:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://github-firefly.github.io/</loc>
-    <lastmod>2014-10-19T14:07:14+08:00</lastmod>
+    <lastmod>2014-10-19T15:01:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
