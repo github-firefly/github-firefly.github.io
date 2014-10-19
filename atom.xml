@@ -4,7 +4,7 @@
   <title><![CDATA[Ding Yanran]]></title>
   <link href="http://github-firefly.github.io/atom.xml" rel="self"/>
   <link href="http://github-firefly.github.io/"/>
-  <updated>2014-10-19T21:13:59+08:00</updated>
+  <updated>2014-10-19T21:15:28+08:00</updated>
   <id>http://github-firefly.github.io/</id>
   <author>
     <name><![CDATA[Ding Yanran]]></name>
@@ -116,7 +116,7 @@ semiconductor production</p>
 <li>Gender: Male
 
 <ul>
-<li>Email: <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#x64;&#x69;&#110;&#x67;&#x79;&#x61;&#x6e;&#114;&#x61;&#110;&#95;&#x32;&#48;&#49;&#49;&#64;&#115;&#x6a;&#116;&#x75;&#x2e;&#x65;&#100;&#117;&#x2e;&#x63;&#110;">&#x64;&#105;&#x6e;&#103;&#121;&#97;&#110;&#x72;&#x61;&#x6e;&#95;&#50;&#48;&#49;&#49;&#x40;&#x73;&#x6a;&#116;&#x75;&#x2e;&#101;&#x64;&#x75;&#x2e;&#x63;&#110;</a></li>
+<li>Email: <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#100;&#x69;&#110;&#x67;&#x79;&#97;&#x6e;&#114;&#x61;&#x6e;&#95;&#50;&#48;&#x31;&#49;&#x40;&#x73;&#106;&#x74;&#x75;&#46;&#101;&#100;&#117;&#46;&#99;&#110;">&#100;&#105;&#110;&#103;&#x79;&#x61;&#110;&#114;&#97;&#x6e;&#95;&#x32;&#x30;&#49;&#x31;&#x40;&#x73;&#x6a;&#x74;&#117;&#x2e;&#101;&#100;&#x75;&#x2e;&#x63;&#110;</a></li>
 </ul>
 </li>
 </ul>
@@ -149,7 +149,7 @@ Thermodynamics, Circuits</li>
   SJTU, Shanghai</p>
 
 <ul>
-<li>Worked with a graduate student in developing a piezo-actuated <a href="http://github-firefly.github.io/blog/2014/10/19/plannar-motor/"><strong>nano-positioning
+<li>Worked with a graduate student in developing a piezo-actuated <a href="http://github-firefly.github.io/blog/2014/10/19/planar-motor/"><strong>nano-positioning
 planar motor</strong></a>. This planar motor has large linear and angular range
 of motion. Position of the planar motor is obtained by a high resolution 2D encoder.</li>
 <li>Actualized motion control algorithm for the planar motor in LabVIEW.
@@ -255,7 +255,7 @@ design.</li>
 
 <h3>Other Links</h3>
 
-<h4>1. <a href="http://github-firefly.github.io/blog/2014/10/19/plannar-motor/">Plannar Motor</a></h4>
+<h4>1. <a href="http://github-firefly.github.io/blog/2014/10/19/planar-motor/">planar Motor</a></h4>
 
 <h4>2. <a href="http://github-firefly.github.io/blog/2014/10/19/vision-based-quadcopter/">Vision Based Quadcopter</a></h4>
 
